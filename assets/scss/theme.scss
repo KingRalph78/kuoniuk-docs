@@ -1,8 +1,10 @@
 /*************************** Theme Colours****************************/
 // Define theme colour scheme
-$theme-color-primary: #28b76b;
+$theme-color-primary: #2CA6BD;
+$theme-color-secondary: #37424a;
 
-$theme-text-color-primary: #252930;
+
+$theme-text-color-primary: #333333;
 $theme-text-color-secondary: lighten($theme-text-color-primary, 25%);
 $theme-text-color-light: lighten($theme-text-color-primary, 40%);
 

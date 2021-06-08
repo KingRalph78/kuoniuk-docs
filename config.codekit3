@@ -21,6 +21,14 @@
       "oF" : 0,
       "pg" : 0
     },
+    "\/assets\/css\/theme.css.map" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/assets\/css\/theme.css.map",
+      "oF" : 0
+    },
     "\/assets\/fontawesome\/attribution.js" : {
       "bF" : 0,
       "ft" : 64,
@@ -17295,6 +17303,16 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/assets\/images\/KUONI_logo-white.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 0,
+      "oAP" : "\/assets\/images\/KUONI_logo-white.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 3758088159,
+      "prP" : 0
+    },
     "\/assets\/js\/docs.js" : {
       "bF" : 0,
       "ft" : 64,
@@ -19070,14 +19088,6 @@
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
-    },
-    "\/docs-page.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/docs-page.html",
-      "oF" : 0
     },
     "\/favicon.ico" : {
       "cB" : 0,

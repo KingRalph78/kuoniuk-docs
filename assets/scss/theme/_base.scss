@@ -2,7 +2,7 @@
 
 /*********** Theme Generic **********/
 body {
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Open Sans', sans-serif;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     color: $theme-text-color-secondary;
@@ -286,7 +286,7 @@ a.theme-link {
 
 .header {
 	@include box-shadow(0 1px 4px 0 rgba(0,0,0,.1));
-	background: #fff;
+	background: #37424a;
 }
 
 /* Footer */
