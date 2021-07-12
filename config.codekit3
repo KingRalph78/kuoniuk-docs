@@ -17351,12 +17351,12 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/assets\/images\/4_offers\/edit-offer-tabs.mov" : {
+    "\/assets\/images\/4_offers\/edit-offer-tabs.mp4" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/assets\/images\/4_offers\/edit-offer-tabs.mov",
+      "oAP" : "\/assets\/images\/4_offers\/edit-offer-tabs.mp4",
       "oF" : 0
     },
     "\/assets\/images\/4_offers\/image.png" : {
@@ -17984,6 +17984,17 @@
       "mi" : 1,
       "oA" : 0,
       "oAP" : "\/assets\/js\/highlight-custom.js",
+      "oF" : 0,
+      "sC" : 1,
+      "tS" : 0
+    },
+    "\/assets\/lazysizes.min.js" : {
+      "bF" : 0,
+      "ft" : 64,
+      "ma" : 1,
+      "mi" : 1,
+      "oA" : 0,
+      "oAP" : "\/assets\/lazysizes.min.js",
       "oF" : 0,
       "sC" : 1,
       "tS" : 0
