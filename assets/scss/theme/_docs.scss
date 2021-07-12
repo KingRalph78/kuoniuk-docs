@@ -131,7 +131,7 @@
 
 .docs-sidebar {
 	display: none;
-	width: 300px;
+	width: 320px;
 	position: fixed;
 	z-index: 10;
 	top: 69px;
@@ -161,7 +161,7 @@
 		display: block;
 	}
 	&.sidebar-hidden {
-		@include transform(translateX(-300px));
+		@include transform(translateX(-320px));
 		display: block;
 	}
 }
@@ -234,7 +234,7 @@
 
 
 .docs-content {
-	margin-left: 300px;
+	margin-left: 320px;
 	padding-bottom: 500px;
 }
 
